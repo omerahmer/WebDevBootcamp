@@ -1,0 +1,49 @@
+h1 {
+	text-align: center;
+}
+
+table {
+	margin: auto;
+	
+	border: none;
+}
+
+td {
+	padding: 80px;
+}
+
+.topright {
+	border-right: none;
+	border-top: none;
+}
+
+.topmiddle {
+	border-top: none;
+}
+
+.topleft {
+	border-left: none;
+	border-top: none;
+}
+
+.middleleft {
+	border-left: none;
+}
+
+.middleright {
+	border-right: none;
+}
+
+.bottomleft {
+	border-left: none;
+	border-bottom: none;
+}
+
+.bottommiddle {
+	border-bottom: none;
+}
+
+.bottomright {
+	border-bottom: none;
+	border-right: none;
+}
